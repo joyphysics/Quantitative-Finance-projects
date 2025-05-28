@@ -1,0 +1,4 @@
+,alpha_daily,alpha_annual,alpha_annual_pct,beta,r_squared,p_value,std_error,stock_volatility,tracking_error,information_ratio,observations
+MSFT,0.0002,0.0467,4.6685,1.1667,0.5914,0.0,0.0274,0.2717,0.1762,0.2649,1254.0
+QQQ,0.0,0.0033,0.3259,1.2351,0.8734,0.0,0.0133,0.2367,0.0941,0.0346,1254.0
+INTC,-0.0012,-0.3106,-31.0625,1.3325,0.304,0.0,0.057,0.4329,0.366,-0.8486,1254.0

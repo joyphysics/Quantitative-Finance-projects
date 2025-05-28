@@ -1,0 +1,5 @@
+Ticker,Annual_Return,Annual_Volatility,Excess_Return,Sharpe_Ratio,Annual_Return_Pct,Annual_Volatility_Pct,Excess_Return_Pct
+MSFT,0.2594,0.2717,0.2174,0.8001,25.9443,27.1729,21.7413
+SPY,0.1783,0.1791,0.1363,0.7608,17.8297,17.9115,13.6267
+QQQ,0.2159,0.2367,0.1738,0.7344,21.5878,23.6707,17.3848
+INTC,-0.1012,0.4329,-0.1432,-0.3309,-10.1199,43.2893,-14.3229
