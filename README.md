@@ -15,3 +15,7 @@ Welcome to my collection of Quantitative Finance projects. This repository is a 
   <img src="Figures/beta_analysis_plots.png" alt="Beta" title="Beta plot" width="700"/>
 </p>
 
+<p align="center">
+  <img src="Figures/rolling_beta_analysis.png" alt="Beta1" title="Beta plot2" width="700"/>
+</p>
+
