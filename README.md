@@ -4,10 +4,9 @@ Welcome to my collection of Quantitative Finance projects. This repository is a 
 ## Overview of the Projects
 ### P1: 1_Daily_Returns_calculation
 
-![Cumulative Log Return](Figures/cumulative_log_return.png)
 
 <p align="center">
-  <img src="Figures/cumulative_simple_return.png" alt="Cumulative Simple Return" title="Cumulative Simple Return" width="400"/>
+  <img src="Figures/cumulative_simple_return.png" alt="Cumulative Simple Return" title="Cumulative Simple Return" width="700"/>
 </p>
 
 <p align="center">
