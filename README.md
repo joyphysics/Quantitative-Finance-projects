@@ -11,6 +11,6 @@ Welcome to my collection of Quantitative Finance projects. This repository is a 
 </p>
 
 <p align="center">
-  <img src="Figures/cumulative_log_return.png" alt="Cumulative Log Return" title="Cumulative Log Return" width="400" style="display:inline-block; margin-right:10px;"/>
-  <img src="Figures/cumulative_simple_return.png" alt="Cumulative Simple Return" title="Cumulative Simple Return" width="400" style="display:inline-block;"/>
+  <img src="Figures/cumulative_log_return.png" alt="Cumulative Log Return" title="Cumulative Log Return" width="600" style="display:inline-block; margin-right:10px;"/>
+  <img src="Figures/cumulative_simple_return.png" alt="Cumulative Simple Return" title="Cumulative Simple Return" width="600" style="display:inline-block;"/>
 </p>
