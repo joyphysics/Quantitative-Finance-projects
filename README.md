@@ -6,3 +6,6 @@ Welcome to my collection of Quantitative Finance projects. This repository is a 
 
 ![Cumulative Log Return](Figures/cumulative_log_return.png)
 
+<p align="center">
+  <img src="Figures/cumulative_simple_return.png" alt="Cumulative Simple Return" title="Cumulative Simple Return" width="400"/>
+</p>
