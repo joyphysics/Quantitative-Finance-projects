@@ -32,7 +32,7 @@ Welcome to my collection of Quantitative Finance projects. This repository is a 
 ### P6: 6_Optimal_Portfolio
 
 <p align="center">
-  <img src="Figures/opt_port1.pngg" alt=". " title="." width="400" style="display:inline-block; margin-right:5px;"/>
+  <img src="Figures/opt_port1.png" alt=". " title="." width="400" style="display:inline-block; margin-right:5px;"/>
   <img src="Figures/opt_port2.png" alt=" ." title=". " width="400" style="display:inline-block;"/>
 </p>
 
