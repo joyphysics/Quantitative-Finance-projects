@@ -32,8 +32,8 @@ Welcome to my collection of Quantitative Finance projects. This repository is a 
 ### P6: 6_Optimal_Portfolio
 
 <p align="center">
-  <img src="Figures/opt_port1.png" alt=". " title="." width="600" style="display:inline-block; margin-right:5px;"/>
-  <img src="Figures/opt_port2.png" alt=" ." title=". " width="200" style="display:inline-block;"/>
+  <img src="Figures/opt_port1.png" alt=". " title="." width="500" style="display:inline-block; margin-right:5px;"/>
+  <img src="Figures/opt_port2.png" alt=" ." title=". " width="300" style="display:inline-block;"/>
 </p>
 
 ### P7: 7_Monte_Carlo_simulation
