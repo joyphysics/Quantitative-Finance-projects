@@ -21,32 +21,32 @@ Welcome to my collection of Quantitative Finance projects. This repository is a 
 
 ### P4: 4_Investment_performance
 <p align="center">
-  <img src="ip1.png" alt="." title="." width="700"/>
+  <img src="Figures/ip1.png" alt="." title="." width="700"/>
 </p>
 
 ### P5: 5_Efficient_Frontier_and_capital_allocation
 <p align="center">
-  <img src="eff_font1.png" alt="." title="." width="700"/>
+  <img src="Figures/eff_font1.png" alt="." title="." width="700"/>
 </p>
 
 ### P6: 6_Optimal_Portfolio
 <p align="center">
-  <img src="opt_port1.png" alt="." title="." width="700"/>
+  <img src="Figures/opt_port1.png" alt="." title="." width="700"/>
 </p>
 
 <p align="center">
-  <img src="opt_port2.png" alt="." title="." width="700"/>
+  <img src="Figures/opt_port2.png" alt="." title="." width="700"/>
 </p>
 
 ### P7: 7_Monte_Carlo_simulation
 <p align="center">
-  <img src="portfolio_simulation.png" alt="." title="." width="700"/>
+  <img src="Figures/portfolio_simulation.png" alt="." title="." width="700"/>
 </p>
 
 ### P8: 8_VaR_MonteCarlo
 <p align="center">
-  <img src="log_mc_var.png" alt="." title="." width="700"/>
+  <img src="Figures/log_mc_var.png" alt="." title="." width="700"/>
 </p>
 <p align="center">
-  <img src="log_mc_var2.png" alt="." title="." width="700"/>
+  <img src="Figures/log_mc_var2.png" alt="." title="." width="700"/>
 </p>
