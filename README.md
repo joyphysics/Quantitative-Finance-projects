@@ -34,3 +34,31 @@ Welcome to my collection of Quantitative Finance projects. This repository is a 
 <p align="center">
   <img src="Figures/log_mc_var2.png" alt="." title="." width="700"/>
 </p>
+
+### P9: 9_VaR_Historical
+<p align="center">
+  <img src="Figures/p91.png" alt="." title="." width="700"/>
+</p>
+<p align="center">
+  <img src="Figures/p92.png" alt="." title="." width="700"/>
+</p>
+
+### P11: 11_Binomial_option_pricing
+<p align="center">
+  <img src="Figures/p111.png" alt="." title="." width="700"/>
+</p>
+
+### P12: 12_Black_Scholes_option_pricing
+<p align="center">
+  <img src="Figures/p121.png" alt="." title="." width="700"/>
+</p>
+
+### P13: 13_Monte_carlo_option_pricing
+<p align="center">
+  <img src="Figures/p131.png" alt="." title="." width="700"/>
+</p>
+
+### P15: 15_Time_series_analysis
+<p align="center">
+  <img src="Figures/p151.png" alt="." title="." width="700"/>
+</p>
