@@ -62,3 +62,18 @@ Welcome to my collection of Quantitative Finance projects. This repository is a 
 <p align="center">
   <img src="Figures/p151.png" alt="." title="." width="700"/>
 </p>
+
+### P16: 16_Project1_M_Joshi
+<p align="center">
+  <img src="Figures/p16.png" alt="." title="." width="700"/>
+</p>
+
+### P17: 17_Project2_M_Joshi
+<p align="center">
+  <img src="Figures/p17.png" alt="." title="." width="700"/>
+</p>
+
+### P18: 18_Project3_M_Joshi
+<p align="center">
+  <img src="Figures/p18.png" alt="." title="." width="700"/>
+</p>
